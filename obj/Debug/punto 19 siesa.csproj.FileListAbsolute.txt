@@ -1,0 +1,8 @@
+C:\Users\Mario\Projects\ASP.NET CORE MVC\punto 19 siesa\punto 19 siesa\bin\Debug\punto 19 siesa.exe.config
+C:\Users\Mario\Projects\ASP.NET CORE MVC\punto 19 siesa\punto 19 siesa\bin\Debug\punto 19 siesa.exe
+C:\Users\Mario\Projects\ASP.NET CORE MVC\punto 19 siesa\punto 19 siesa\bin\Debug\punto 19 siesa.pdb
+C:\Users\Mario\Projects\ASP.NET CORE MVC\punto 19 siesa\punto 19 siesa\obj\Debug\punto 19 siesa.csproj.AssemblyReference.cache
+C:\Users\Mario\Projects\ASP.NET CORE MVC\punto 19 siesa\punto 19 siesa\obj\Debug\punto 19 siesa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Projects\ASP.NET CORE MVC\punto 19 siesa\punto 19 siesa\obj\Debug\punto 19 siesa.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Projects\ASP.NET CORE MVC\punto 19 siesa\punto 19 siesa\obj\Debug\punto 19 siesa.exe
+C:\Users\Mario\Projects\ASP.NET CORE MVC\punto 19 siesa\punto 19 siesa\obj\Debug\punto 19 siesa.pdb
