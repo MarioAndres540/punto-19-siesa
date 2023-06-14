@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace punto_19_siesa
 {
+    //ESTE CODIGO NO FUE FABRICADO POR MI, lo busque en internet ya que no conosco sobre nodos aun,
+    //de igual forma comparto como creo que se realiza lo que estan solicitando 
     class Nodo
     {
         public int Valor { get; set; }
